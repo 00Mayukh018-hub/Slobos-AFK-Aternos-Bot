@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "Homeland-3Xe7.aternos.me",
-    "port": 14093,
+    "ip": "Ashram-friends.aternos.me",
+    "port":50187,
     "version": "",
     "try-creative": false
   },
